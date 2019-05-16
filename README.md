@@ -1,2 +1,2 @@
-# victorkrat.github.io
-FIrst public site
+# Victor Krat
+First public site
